@@ -217,7 +217,7 @@ Web Caching
 Introducing New Services: Overlays v. Active Networks
 -----------------------------------------------------
 
-**\[W99\]** [Wetherall, D.](https://www.coursera.org/instructor/~517478) "Active network vision and reality: Lessons from a capsule-based system." _Proc_ [_17th SOSP_](http://www.acm.org/sigs/sigops/sosp99/) December 1999. Kiawah Island, SC. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://research.microsoft.com/en-us/um/people/padmanab/cse561/papers/wet99.pdf))
+**\[W99\]** [Wetherall, D.](https://www.coursera.org/instructor/~517478) "Active network vision and reality: Lessons from a capsule-based system." _Proc_ [_17th SOSP_](http://www.acm.org/sigs/sigops/sosp99/) December 1999. Kiawah Island, SC. ([PDF](http://research.microsoft.com/en-us/um/people/padmanab/cse561/papers/wet99.pdf))
 
 **Modeling and Measurement**
 
