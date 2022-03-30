@@ -3,6 +3,7 @@ content_type: resource
 description: Congestion Manager
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/bf537ce36f98c6d6f154b755a0007c48_L12cmnick.pdf
 file_type: application/pdf
+parent_uid: c27d8b1f-c797-455a-4af5-0ccbb0124cfb
 resourcetype: Document
 title: L12cmnick.pdf
 uid: bf537ce3-6f98-c6d6-f154-b755a0007c48
